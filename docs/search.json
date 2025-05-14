@@ -1,52 +1,10 @@
 [
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "Research Team",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "We are a small research team embedded in the Biological clocks and timers in development lab at the Friedrich Miescher Institute for Biomedical Research: FMI in Basel\n\n\n\n\n\n\n\nLeonie Fabbro Burtschell -PhD student\nLeonie obtained a French-German BSc in Human and Molecular Biology from the Universities of Saarbrücken and Strasbourg and a MSc in Molecular Biology and Genetics from the University of Strasbourg. During her master thesis at the IGBMC in Strasbourg she focused on understanding the role of BCL7 proteins in SWI/SNF assembly and function. She joined the Methot group as a PhD student in March 2023, focusing on understanding the dynamics of heterochromatin during development, using C. elegans developmental oscillations as a model. Besides doing science, she bikes, hikes, and takes care of her plants."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Stephen P. Methot",
-    "section": "",
-    "text": "We are focused on understanding how chromatin states ensure that gene expression occurs at the right place and at the right time during development. We use a combination of microscopy and genomics approaches and C. elegans larval development as a model system."
-  },
-  {
-    "objectID": "index.html#current-position",
-    "href": "index.html#current-position",
-    "title": "Stephen P. Methot",
-    "section": "Current Position:",
-    "text": "Current Position:\nProject Leader - Ambizione Fellow Friedrich Miescher Institute for Biomedical Research Basel, Switzerland | Jan 2023 - Present"
-  },
-  {
-    "objectID": "index.html#previous-positions",
-    "href": "index.html#previous-positions",
-    "title": "Stephen P. Methot",
-    "section": "Previous Positions:",
-    "text": "Previous Positions:\nPostdoc - lab of Prof. Helge Grosshans Friedrich Miescher Institute for Biomedical Research Basel, Switzerland | Aug 2021 - Dec 2022\nPostdoc - Lab of Prof. Susan Gasser Friedrich Miescher Institute for Biomedical Research Basel, Switzerland | Nov 2017 - Jul 2021\nPhD Student - Lab of Prof. Javier Di Noia Institut de Recherches Cliniques de Montreal Montreal, Quebec, Canada | Sep 2010 - Oct 2017"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Stephen P. Methot",
-    "section": "Education:",
-    "text": "Education:\nPhD, Experimental Medicine McGill University Montreal, Canada | Sep 2010 – Oct 2017\nBSc, Molecular Biology and Biochemistry Simon Fraser University Burnaby, Canada. | Sep 2005 – Aug 2010"
-  },
-  {
-    "objectID": "index.html#funding",
-    "href": "index.html#funding",
-    "title": "Stephen P. Methot",
-    "section": "Funding",
-    "text": "Funding\nAmbizione Grant"
+    "text": "Functional Organization of the Cell Nucleus | Universität Basel | Nov 2024\nGenetic Approaches in Biomedical Research | Universität Basel | Oct 2023\nG4 Chromatin and Epigenetics | Universität Basel | Apr 2023\nDynamics and Maintenance of the Genome | Universität Basel | Apr 2020"
   },
   {
     "objectID": "publications.html",
@@ -89,5 +47,54 @@
     "title": "Publications",
     "section": "Patents:",
     "text": "Patents:\n\nDi Noia JM, Verdun RE, Methot SP. Modulating uracil-dna glycosylase and uses thereof. Patent # US20180221438A1."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Stephen P. Methot",
+    "section": "",
+    "text": "We are focused on understanding how chromatin states ensure that gene expression occurs at the right place and at the right time during development. We use a combination of microscopy and genomics approaches and C. elegans larval development as a model system."
+  },
+  {
+    "objectID": "index.html#current-position",
+    "href": "index.html#current-position",
+    "title": "Stephen P. Methot",
+    "section": "Current Position:",
+    "text": "Current Position:\nProject Leader - Ambizione Fellow Friedrich Miescher Institute for Biomedical Research Basel, Switzerland | Jan 2023 - Present"
+  },
+  {
+    "objectID": "index.html#previous-positions",
+    "href": "index.html#previous-positions",
+    "title": "Stephen P. Methot",
+    "section": "Previous Positions:",
+    "text": "Previous Positions:\nPostdoc - lab of Prof. Helge Grosshans Friedrich Miescher Institute for Biomedical Research Basel, Switzerland | Aug 2021 - Dec 2022\nPostdoc - Lab of Prof. Susan Gasser Friedrich Miescher Institute for Biomedical Research Basel, Switzerland | Nov 2017 - Jul 2021\nPhD Student - Lab of Prof. Javier Di Noia Institut de Recherches Cliniques de Montreal Montreal, Quebec, Canada | Sep 2010 - Oct 2017"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Stephen P. Methot",
+    "section": "Education:",
+    "text": "Education:\nPhD, Experimental Medicine McGill University Montreal, Canada | Sep 2010 – Oct 2017\nBSc, Molecular Biology and Biochemistry Simon Fraser University Burnaby, Canada. | Sep 2005 – Aug 2010"
+  },
+  {
+    "objectID": "index.html#funding",
+    "href": "index.html#funding",
+    "title": "Stephen P. Methot",
+    "section": "Funding",
+    "text": "Funding\nAmbizione Grant"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Research Team",
+    "section": "",
+    "text": "We are a small research team embedded in the Biological clocks and timers in development lab at the Friedrich Miescher Institute for Biomedical Research: FMI in Basel\n\n\n\n\n\n\n\nLeonie Fabbro Burtschell -PhD student\nLeonie obtained a French-German BSc in Human and Molecular Biology from the Universities of Saarbrücken and Strasbourg and a MSc in Molecular Biology and Genetics from the University of Strasbourg. During her master thesis at the IGBMC in Strasbourg she focused on understanding the role of BCL7 proteins in SWI/SNF assembly and function. She joined the Methot group as a PhD student in March 2023, focusing on understanding the dynamics of heterochromatin during development, using C. elegans developmental oscillations as a model. Besides doing science, she bikes, hikes, and takes care of her plants."
   }
 ]

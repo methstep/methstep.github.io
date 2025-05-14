@@ -1,0 +1,12 @@
+---
+title: "Teaching"
+format: html
+---
+
+**Functional Organization of the Cell Nucleus** | Universität Basel | Nov 2024
+
+**Genetic Approaches in Biomedical Research** | Universität Basel | Oct 2023
+
+**G4 Chromatin and Epigenetics** | Universität Basel | Apr 2023
+
+**Dynamics and Maintenance of the Genome** | Universität Basel | Apr 2020

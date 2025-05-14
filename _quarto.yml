@@ -12,6 +12,8 @@ website:
         text: Research Team
       - href: publications.qmd
         text: Publications
+      - href: teaching.qmd
+        text: Teaching
 
 format:
   html:
