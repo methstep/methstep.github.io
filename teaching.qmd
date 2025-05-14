@@ -2,7 +2,6 @@
 title: "Teaching"
 format: html
 ---
-
 **Functional Organization of the Cell Nucleus** | Universität Basel | Nov 2024
 
 **Genetic Approaches in Biomedical Research** | Universität Basel | Oct 2023
