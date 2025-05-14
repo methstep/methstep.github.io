@@ -1,0 +1,61 @@
+---
+title: "Stephen P. Methot"
+image: images/ProfileMethot.jpg
+about:
+  template: trestles
+  image-title: Stephen Methot
+  links:
+    - text: '<i class="fa-brands fa-bluesky"></i>'
+      href: https://bsky.app/profile/smethot.bsky.social
+    - icon: linkedin
+      href: https://www.linkedin.com/in/stephen-methot-0373a8181/
+    - icon: envelope
+      href: mailto:stephen.methot@fmi.ch
+    - text: '<i class="fa-brands fa-orcid"></i>'
+      href: https://orcid.org/my-orcid?orcid=0000-0003-2854-2226
+    - text: '<i class="fa-brands fa-google-scholar"></i>'
+      href: https://scholar.google.com/citations?user=hvNlugEAAAAJ&hl=en
+---
+
+We are focused on understanding how chromatin states ensure that gene expression occurs at the right place and at the right time during development. We use a combination of microscopy and genomics approaches and *C. elegans* larval development as a model system.
+
+**Current Position:**
+
+Project Leader - Ambizione Fellow<br>
+Friedrich Miescher Institute for Biomedical Research<br>
+Basel, Switzerland | Jan 2023 - Present
+
+**Previous Positions:**
+
+Postdoc - lab of Prof. Helge Grosshans<br>
+Friedrich Miescher Institute for Biomedical Research<br>
+Basel, Switzerland | Aug 2021 - Dec 2022
+
+Postdoc - Lab of Prof. Susan Gasser<br>
+Friedrich Miescher Institute for Biomedical Research<br>
+Basel, Switzerland | Nov 2017 - Jul 2021
+
+PhD Student - Lab of Prof. Javier Di Noia<br>
+Institut de Recherches Cliniques de Montreal<br>
+Montreal, Quebec, Canada | Sep 2010 - Oct 2017
+
+**Education:**
+
+PhD, Experimental Medicine<br>
+McGill University<br> 
+Montreal, Canada | Sep 2010 – Oct 2017
+
+BSc, Molecular Biology and Biochemistry<br>
+Simon Fraser University<br>
+Burnaby, Canada. | Sep 2005 – Aug 2010
+
+**Funding**
+
+Ambizione Grant<br>
+![SNSF logo](images/snsflogo.png){width="75%"}
+
+
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```

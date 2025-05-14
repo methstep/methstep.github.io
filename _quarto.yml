@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Stephen Methot"
+  navbar:
+    left:
+      - href: research.qmd
+        text: Research
+      - href: people.qmd
+        text: Research Team
+      - href: publications.qmd
+        text: Publications
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+
+
