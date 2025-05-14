@@ -19,37 +19,37 @@ about:
 
 We are focused on understanding how chromatin states ensure that gene expression occurs at the right place and at the right time during development. We use a combination of microscopy and genomics approaches and *C. elegans* larval development as a model system.
 
-**Current Position:**
+## Current Position:
 
-Project Leader - Ambizione Fellow<br>
+**Project Leader** - Ambizione Fellow<br>
 Friedrich Miescher Institute for Biomedical Research<br>
 Basel, Switzerland | Jan 2023 - Present
 
-**Previous Positions:**
+## Previous Positions:
 
-Postdoc - lab of Prof. Helge Grosshans<br>
+**Postdoc** - lab of Prof. Helge Grosshans<br>
 Friedrich Miescher Institute for Biomedical Research<br>
 Basel, Switzerland | Aug 2021 - Dec 2022
 
-Postdoc - Lab of Prof. Susan Gasser<br>
+**Postdoc** - Lab of Prof. Susan Gasser<br>
 Friedrich Miescher Institute for Biomedical Research<br>
 Basel, Switzerland | Nov 2017 - Jul 2021
 
-PhD Student - Lab of Prof. Javier Di Noia<br>
+**PhD Student** - Lab of Prof. Javier Di Noia<br>
 Institut de Recherches Cliniques de Montreal<br>
 Montreal, Quebec, Canada | Sep 2010 - Oct 2017
 
-**Education:**
+## Education:
 
-PhD, Experimental Medicine<br>
+**PhD**, Experimental Medicine<br>
 McGill University<br> 
 Montreal, Canada | Sep 2010 – Oct 2017
 
-BSc, Molecular Biology and Biochemistry<br>
+**BSc**, Molecular Biology and Biochemistry<br>
 Simon Fraser University<br>
 Burnaby, Canada. | Sep 2005 – Aug 2010
 
-**Funding**
+## Funding
 
 Ambizione Grant<br>
 ![SNSF logo](images/snsflogo.png){width="75%"}
