@@ -4,9 +4,7 @@ format: html
 ---
 [Google Scholar](https://scholar.google.com/citations?user=hvNlugEAAAAJ&hl=en)
 
-## Preprints or submitted manuscripts:
-
--   Gaidatzis D^1,2^, Graf-Landua M^1^, Methot SP^1^, Wölk M, Brancati G, Hauser YP, Meeuse M, Nahar S, Braun K, van der Does M, Aluri S, Kohler H, Smallwood S, and Grosshans H2. A scheduler for rhythmic gene expression. Submitted to Molecular Systems Biology. April, 2025. ^1^equal contribution ^2^co-corresponding.
+## Preprints:
 
 -   [Olver J, Shtumpf M, Hussain K, Methot SP, Sarkies P, Ferreira HC. ATRX safeguards cellular identity during C. elegans development. bioRxiv. March, 2025.](https://doi.org/10.1101/2025.03.11.641662)
 
