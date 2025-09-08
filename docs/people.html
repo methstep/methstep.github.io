@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-bd8cb2610f6c2810c4bc87234a365cf8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -136,16 +136,28 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>We are a small research team embedded in the <a href="https://grosshanslab.org/">Biological clocks and timers in development lab</a> at the Friedrich Miescher Institute for Biomedical Research: <a href="https://www.fmi.ch">FMI</a> in Basel</p>
+<p><img src="images/Methot_GroupPicture.jpg" class="img-fluid" width="1000"> We are a small research team embedded in the <a href="https://grosshanslab.org/">Biological clocks and timers in development lab</a> at the Friedrich Miescher Institute for Biomedical Research: <a href="https://www.fmi.ch">FMI</a> in Basel</p>
 <div class="columns">
 <div class="column" style="width:30%;">
-<p><img src="images/ProfileLeonie.webp" style="height:125.0%"></p>
+<p><img src="images/ProfileLeonie.webp" class="img-fluid" width="300"></p>
 </div><div class="column" style="width:10%;">
 <!-- empty column to create gap -->
 </div><div class="column" style="width:60%;">
 <section id="leonie-fabbro-burtschell---phd-student" class="level3">
 <h3 class="anchored" data-anchor-id="leonie-fabbro-burtschell---phd-student">Leonie Fabbro Burtschell -<br>PhD student</h3>
-<p>Leonie obtained a French-German BSc in Human and Molecular Biology from the Universities of Saarbrücken and Strasbourg and a MSc in Molecular Biology and Genetics from the University of Strasbourg. During her master thesis at the IGBMC in Strasbourg she focused on understanding the role of BCL7 proteins in SWI/SNF assembly and function. She joined the Methot group as a PhD student in March 2023, focusing on understanding the dynamics of heterochromatin during development, using <em>C. elegans</em> developmental oscillations as a model. Besides doing science, she bikes, hikes, and takes care of her plants.</p>
+<p>Leonie obtained a French-German BSc in Human and Molecular Biology from the Universities of Saarbrücken and Strasbourg and a MSc in Molecular Biology and Genetics from the University of Strasbourg. During her master thesis she focused on understanding the role of BCL7 proteins in SWI/SNF assembly and function. She joined our group in March 2023 to understand the dynamics of heterochromatin, using <em>C. elegans</em> developmental oscillations as a model. Besides doing science, she bikes, hikes, and takes care of her plants.</p>
+</section>
+</div>
+</div>
+<div class="columns">
+<div class="column" style="width:30%;">
+<p><img src="images/Poppelaars_Anna_Eveline.jpg" class="img-fluid" width="300"></p>
+</div><div class="column" style="width:10%;">
+<!-- empty column to create gap -->
+</div><div class="column" style="width:60%;">
+<section id="fenna-poppelaars---research-associate" class="level3">
+<h3 class="anchored" data-anchor-id="fenna-poppelaars---research-associate">Fenna Poppelaars -<br>Research associate</h3>
+<p>Fenna obtained her BSc in Pharmaceutical Sciences from Utrecht University and a MSc in Biomolecular Sciences from VU Amsterdam. During her masters internships she acquired significant experience with microscopy techniques, employing smFISH and MS2-tagging to evaluate transcription <em>in situ</em>, and profiling of cell competition in organoids. She joined the Methot group in July 2025 to develop new microscopy tools to study transcription robustness and dynamics in <em>C. elegans</em> larvae. Outside the lab, she knits, hikes, and does triathlons.</p>
 </section>
 </div>
 </div>
@@ -248,8 +260,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -360,7 +370,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
