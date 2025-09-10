@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Stephen Methot"
+  site-url: https://methstep.github.io
+  sitemap: true
   navbar:
     left:
       - href: research.qmd
