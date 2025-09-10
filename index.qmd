@@ -12,7 +12,7 @@ about:
     - icon: envelope
       href: mailto:stephen.methot@fmi.ch
     - text: '<i class="fa-brands fa-orcid"></i>'
-      href: https://orcid.org/my-orcid?orcid=0000-0003-2854-2226
+      href: https://orcid.org/0000-0003-2854-2226
     - text: '<i class="fa-brands fa-google-scholar"></i>'
       href: https://scholar.google.com/citations?user=hvNlugEAAAAJ&hl=en
 ---

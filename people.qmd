@@ -3,21 +3,36 @@ title: "Research Team"
 format: html
 ---
 
+![](images/Methot_GroupPicture.jpg){width="1000"}
 We are a small research team embedded in the [Biological clocks and timers in development lab](https://grosshanslab.org/) at the Friedrich Miescher Institute for Biomedical Research: [FMI](https://www.fmi.ch) in Basel
+
 
 :::: {.columns}
 ::: {.column width="30%"}
-![](images/ProfileLeonie.webp){height="125%"}
+![](images/ProfileLeonie.webp){width="300"}
 :::
 ::: {.column width="10%"}
 <!-- empty column to create gap -->
 :::
 ::: {.column width="60%"}
 ### Leonie Fabbro Burtschell -<br>PhD student
-
-Leonie obtained a French-German BSc in Human and Molecular Biology from the Universities of Saarbrücken and Strasbourg and a MSc in Molecular Biology and Genetics from the University of Strasbourg. During her master thesis at the IGBMC in Strasbourg she focused on understanding the role of BCL7 proteins in SWI/SNF assembly and function. She joined the Methot group as a PhD student in March 2023, focusing on understanding the dynamics of heterochromatin during development, using *C. elegans* developmental oscillations as a model. Besides doing science, she bikes, hikes, and takes care of her plants.
+Leonie obtained a French-German BSc in Human and Molecular Biology from the Universities of Saarbrücken and Strasbourg and a MSc in Molecular Biology and Genetics from the University of Strasbourg. During her master thesis she focused on understanding the role of BCL7 proteins in SWI/SNF assembly and function. She joined our group in March 2023 to understand the dynamics of heterochromatin, using *C. elegans* developmental oscillations as a model. Besides doing science, she bikes, hikes, and takes care of her plants.
 :::
 ::::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](images/Poppelaars_Anna_Eveline.jpg){width="300"}
+:::
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+::: {.column width="60%"}
+### Fenna Poppelaars -<br>Research associate
+Fenna obtained her BSc in Pharmaceutical Sciences from Utrecht University and a MSc in Biomolecular Sciences from VU Amsterdam. During her masters internships she acquired significant experience with microscopy techniques, employing smFISH and MS2-tagging to evaluate transcription *in situ*, and profiling of cell competition in organoids. She joined the Methot group in July 2025 to develop new microscopy tools to study transcription robustness and dynamics in *C. elegans* larvae. Outside the lab, she knits, hikes, and does triathlons.
+:::
+::::
+
 
 :::: {.columns}
 ::: {.column width="30%"}
