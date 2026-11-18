@@ -17,7 +17,14 @@ about:
       href: https://scholar.google.com/citations?user=hvNlugEAAAAJ&hl=en
 ---
 
-We are focused on understanding how chromatin states ensure that gene expression occurs at the right place and at the right time during development. We use a combination of microscopy and genomics approaches and *C. elegans* larval development as a model system.
+Mutations in chromatin regulators are a major cause of developmental disorders, yet we still lack a mechanistic understanding of how chromatin dynamics ensure robust development in vivo. Our research leverages the uniquely tractable developmental program of *C. elegans* larvae, where rhythmic transcription and chromatin regulation precisely coordinate developmental timing. By combining acute genetic perturbations with quantitative genomics and live developmental phenotyping, we aim to uncover the general principles by which chromatin dynamics generate precise and robust developmental outcomes. Ultimately, our goal is to provide a new framework for understanding how diverse chromatin perturbations, including those underlying chromatinopathies, disrupt developmental programs.
+
+## Upcoming Position:
+
+**Group Leader**<br>
+Chromatin Dynamics and Developmental Robustness<br>
+Institut de génétique et de biologie moléculaire et cellulaire (IGBMC) <br>
+Illkirch, France | Starting in March 2027
 
 ## Current Position:
 
@@ -50,6 +57,9 @@ Simon Fraser University<br>
 Burnaby, Canada. | Sep 2005 – Aug 2010
 
 ## Funding
+
+ATIP-Avenir Grant<br>
+![ATIP-Avenir logo](images/atip.jpeg){width="75%"}
 
 Ambizione Grant<br>
 ![SNSF logo](images/snsflogo.png){width="75%"}

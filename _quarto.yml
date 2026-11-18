@@ -5,7 +5,6 @@ project:
 website:
   title: "Stephen Methot"
   site-url: https://methstep.github.io
-  sitemap: true
   navbar:
     left:
       - href: research.qmd
@@ -22,6 +21,7 @@ format:
     theme: minty
     css: styles.css
     toc: true
+    sitemap: {}
 
 resources:
   - googlee26f4768e36e2a1c.html

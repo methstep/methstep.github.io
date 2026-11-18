@@ -6,11 +6,11 @@ format: html
 
 ## Preprints:
 
--   [Gaidatzis D^1,2^, Graf-Landua M^1^, Methot SP^1^, Woelk M, Brancati G, Hauser YP, Meeuse M,  Nahar S, Braun K, van der Does M, Aluri S, Kohler H, Smallwood S, Grosshans H^2^. A scheduler for rhythmic gene expression. bioRxiv. September, 2025. ^1^equal contribution ^2^co-corresponding](https://doi.org/10.1101/2025.09.04.674194)
-
--   [Olver J, Shtumpf M, Hussain K, Methot SP, Sarkies P, Ferreira HC. ATRX safeguards cellular identity during C. elegans development. bioRxiv. March, 2025.](https://doi.org/10.1101/2025.03.11.641662)
+-   [Olver J, Shtumpf M, Hussain K, Methot SP, Sarkies P, Ferreira HC. ATRX safeguards cellular identity during C. elegans development. bioRxiv. January, 2026.](https://doi.org/10.1101/2025.03.11.641662)
 
 ## Postdoc:
+
+-   [Gaidatzis D^1,2^, Graf-Landua M^1^, Methot SP^1^, Woelk M, Brancati G, Hauser YP, Meeuse M,  Nahar S, Braun K, van der Does M, Aluri S, Kohler H, Smallwood S, Grosshans H^2^. A scheduler for rhythmic gene expression. Molecular Systems Biology. October, 2025. ^1^equal contribution ^2^co-corresponding](https://doi.org/10.1101/2025.09.04.674194)
 
 -	[Delaney CE, Methot SP, Kalck V, Seebacher J, Hess D, Gasser SM, Padeken J. SETDB1-like MET-2 promotes transcriptional silencing and development independently of its H3K9me-associated catalytic activity. Nature Structure & Molecular Biology. February, 2022. 29(2): 85-96.](https://doi.org/10.1038/s41594-021-00712-4)
 

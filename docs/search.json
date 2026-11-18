@@ -18,14 +18,14 @@
     "href": "publications.html#preprints",
     "title": "Publications",
     "section": "Preprints:",
-    "text": "Preprints:\n\nGaidatzis D1,2, Graf-Landua M1, Methot SP1, Woelk M, Brancati G, Hauser YP, Meeuse M, Nahar S, Braun K, van der Does M, Aluri S, Kohler H, Smallwood S, Grosshans H2. A scheduler for rhythmic gene expression. bioRxiv. September, 2025. 1equal contribution 2co-corresponding\nOlver J, Shtumpf M, Hussain K, Methot SP, Sarkies P, Ferreira HC. ATRX safeguards cellular identity during C. elegans development. bioRxiv. March, 2025."
+    "text": "Preprints:\n\nOlver J, Shtumpf M, Hussain K, Methot SP, Sarkies P, Ferreira HC. ATRX safeguards cellular identity during C. elegans development. bioRxiv. January, 2026."
   },
   {
     "objectID": "publications.html#postdoc",
     "href": "publications.html#postdoc",
     "title": "Publications",
     "section": "Postdoc:",
-    "text": "Postdoc:\n\nDelaney CE, Methot SP, Kalck V, Seebacher J, Hess D, Gasser SM, Padeken J. SETDB1-like MET-2 promotes transcriptional silencing and development independently of its H3K9me-associated catalytic activity. Nature Structure & Molecular Biology. February, 2022. 29(2): 85-96.\nMethot SP1, Padeken J1, Brancati G, Zeller P, Delaney CE, Gaidatzis D, Kohler H, van Oudenaarden A, Grosshans H, Gasser SM. H3K9me selectively blocks transcription factor activity and ensures tissue integrity. Nature Cell Biology. November, 2021. 23(11): 1163-1175. 1equal contribution.\nPadeken J, Methot SP, Zeller P, Delaney CE, Kalck V, and Gasser SM. Argonaute NRDE-3 and MBT domain protein LIN-61 redundantly recruit an H3K9me3 HMT to prevent embryonic lethality and transposon expression. Genes and Development. January, 2021. 35: 82-101.\nDelaney CE1, Methot SP1, Guidi M1, Katic I, Gasser SM, Padeken J. Heterochromatic foci and transcriptional repression by an unstructured MET-2/SETDB1 co-factor LIN-65. Journal of Cell Biology. March, 2019. 218(3): 820-838. 1equal contribution.\nPadeken J1, Zeller P1, Towbin B, Katic I, Kalck V, Methot SP and Gasser SM. Synergistic lethality between BRCA1 and H3K9me2 loss reflects satellite derepression. Genes and Development. April, 2019. 33: 436-451. 1equal contribution."
+    "text": "Postdoc:\n\nGaidatzis D1,2, Graf-Landua M1, Methot SP1, Woelk M, Brancati G, Hauser YP, Meeuse M, Nahar S, Braun K, van der Does M, Aluri S, Kohler H, Smallwood S, Grosshans H2. A scheduler for rhythmic gene expression. Molecular Systems Biology. October, 2025. 1equal contribution 2co-corresponding\nDelaney CE, Methot SP, Kalck V, Seebacher J, Hess D, Gasser SM, Padeken J. SETDB1-like MET-2 promotes transcriptional silencing and development independently of its H3K9me-associated catalytic activity. Nature Structure & Molecular Biology. February, 2022. 29(2): 85-96.\nMethot SP1, Padeken J1, Brancati G, Zeller P, Delaney CE, Gaidatzis D, Kohler H, van Oudenaarden A, Grosshans H, Gasser SM. H3K9me selectively blocks transcription factor activity and ensures tissue integrity. Nature Cell Biology. November, 2021. 23(11): 1163-1175. 1equal contribution.\nPadeken J, Methot SP, Zeller P, Delaney CE, Kalck V, and Gasser SM. Argonaute NRDE-3 and MBT domain protein LIN-61 redundantly recruit an H3K9me3 HMT to prevent embryonic lethality and transposon expression. Genes and Development. January, 2021. 35: 82-101.\nDelaney CE1, Methot SP1, Guidi M1, Katic I, Gasser SM, Padeken J. Heterochromatic foci and transcriptional repression by an unstructured MET-2/SETDB1 co-factor LIN-65. Journal of Cell Biology. March, 2019. 218(3): 820-838. 1equal contribution.\nPadeken J1, Zeller P1, Towbin B, Katic I, Kalck V, Methot SP and Gasser SM. Synergistic lethality between BRCA1 and H3K9me2 loss reflects satellite derepression. Genes and Development. April, 2019. 33: 436-451. 1equal contribution."
   },
   {
     "objectID": "publications.html#phd-and-prior",
@@ -53,7 +53,7 @@
     "href": "index.html",
     "title": "Stephen P. Methot",
     "section": "",
-    "text": "We are focused on understanding how chromatin states ensure that gene expression occurs at the right place and at the right time during development. We use a combination of microscopy and genomics approaches and C. elegans larval development as a model system."
+    "text": "Mutations in chromatin regulators are a major cause of developmental disorders, yet we still lack a mechanistic understanding of how chromatin dynamics ensure robust development in vivo. Our research leverages the uniquely tractable developmental program of C. elegans larvae, where rhythmic transcription and chromatin regulation precisely coordinate developmental timing. By combining acute genetic perturbations with quantitative genomics and live developmental phenotyping, we aim to uncover the general principles by which chromatin dynamics generate precise and robust developmental outcomes. Ultimately, our goal is to provide a new framework for understanding how diverse chromatin perturbations, including those underlying chromatinopathies, disrupt developmental programs."
   },
   {
     "objectID": "index.html#current-position",
@@ -81,7 +81,7 @@
     "href": "index.html#funding",
     "title": "Stephen P. Methot",
     "section": "Funding",
-    "text": "Funding\nAmbizione Grant"
+    "text": "Funding\nATIP-Avenir Grant \nAmbizione Grant"
   },
   {
     "objectID": "about.html",
@@ -96,5 +96,12 @@
     "title": "Research Team",
     "section": "",
     "text": "We are a small research team embedded in the Biological clocks and timers in development lab at the Friedrich Miescher Institute for Biomedical Research: FMI in Basel\n\n\n\n\n\n\n\nLeonie Fabbro Burtschell -PhD student\nLeonie obtained a French-German BSc in Human and Molecular Biology from the Universities of Saarbrücken and Strasbourg and a MSc in Molecular Biology and Genetics from the University of Strasbourg. During her master thesis she focused on understanding the role of BCL7 proteins in SWI/SNF assembly and function. She joined our group in March 2023 to understand the dynamics of heterochromatin, using C. elegans developmental oscillations as a model. Besides doing science, she bikes, hikes, and takes care of her plants.\n\n\n\n\n\n\n\n\n\n\nFenna Poppelaars -Research associate\nFenna obtained her BSc in Pharmaceutical Sciences from Utrecht University and a MSc in Biomolecular Sciences from VU Amsterdam. During her masters internships she acquired significant experience with microscopy techniques, employing smFISH and MS2-tagging to evaluate transcription in situ, and profiling of cell competition in organoids. She joined the Methot group in July 2025 to develop new microscopy tools to study transcription robustness and dynamics in C. elegans larvae. Outside the lab, she knits, hikes, and does triathlons."
+  },
+  {
+    "objectID": "index.html#upcoming-position",
+    "href": "index.html#upcoming-position",
+    "title": "Stephen P. Methot",
+    "section": "Upcoming Position:",
+    "text": "Upcoming Position:\nGroup Leader Chromatin Dynamics and Developmental Robustness Institut de génétique et de biologie moléculaire et cellulaire (IGBMC)  Illkirch, France | Starting in March 2027"
   }
 ]
