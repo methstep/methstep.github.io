@@ -16,7 +16,7 @@ about:
     - text: '<i class="fa-brands fa-google-scholar"></i>'
       href: https://scholar.google.com/citations?user=hvNlugEAAAAJ&hl=en
 ---
-
+**Chromatin Dynamics and Developmental Robustness**<br>
 Mutations in chromatin regulators are a major cause of developmental disorders, yet we still lack a mechanistic understanding of how chromatin dynamics ensure robust development in vivo. Our research leverages the uniquely tractable developmental program of *C. elegans* larvae, where rhythmic transcription and chromatin regulation precisely coordinate developmental timing. By combining acute genetic perturbations with quantitative genomics and live developmental phenotyping, we aim to uncover the general principles by which chromatin dynamics generate precise and robust developmental outcomes. Ultimately, our goal is to provide a new framework for understanding how diverse chromatin perturbations, including those underlying chromatinopathies, disrupt developmental programs.
 
 ## Upcoming Position:

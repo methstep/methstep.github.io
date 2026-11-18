@@ -53,7 +53,14 @@
     "href": "index.html",
     "title": "Stephen P. Methot",
     "section": "",
-    "text": "Mutations in chromatin regulators are a major cause of developmental disorders, yet we still lack a mechanistic understanding of how chromatin dynamics ensure robust development in vivo. Our research leverages the uniquely tractable developmental program of C. elegans larvae, where rhythmic transcription and chromatin regulation precisely coordinate developmental timing. By combining acute genetic perturbations with quantitative genomics and live developmental phenotyping, we aim to uncover the general principles by which chromatin dynamics generate precise and robust developmental outcomes. Ultimately, our goal is to provide a new framework for understanding how diverse chromatin perturbations, including those underlying chromatinopathies, disrupt developmental programs."
+    "text": "Chromatin Dynamics and Developmental Robustness Mutations in chromatin regulators are a major cause of developmental disorders, yet we still lack a mechanistic understanding of how chromatin dynamics ensure robust development in vivo. Our research leverages the uniquely tractable developmental program of C. elegans larvae, where rhythmic transcription and chromatin regulation precisely coordinate developmental timing. By combining acute genetic perturbations with quantitative genomics and live developmental phenotyping, we aim to uncover the general principles by which chromatin dynamics generate precise and robust developmental outcomes. Ultimately, our goal is to provide a new framework for understanding how diverse chromatin perturbations, including those underlying chromatinopathies, disrupt developmental programs."
+  },
+  {
+    "objectID": "index.html#upcoming-position",
+    "href": "index.html#upcoming-position",
+    "title": "Stephen P. Methot",
+    "section": "Upcoming Position:",
+    "text": "Upcoming Position:\nGroup Leader Chromatin Dynamics and Developmental Robustness Institut de génétique et de biologie moléculaire et cellulaire (IGBMC)  Illkirch, France | Starting in March 2027"
   },
   {
     "objectID": "index.html#current-position",
@@ -96,12 +103,5 @@
     "title": "Research Team",
     "section": "",
     "text": "We are a small research team embedded in the Biological clocks and timers in development lab at the Friedrich Miescher Institute for Biomedical Research: FMI in Basel\n\n\n\n\n\n\n\nLeonie Fabbro Burtschell -PhD student\nLeonie obtained a French-German BSc in Human and Molecular Biology from the Universities of Saarbrücken and Strasbourg and a MSc in Molecular Biology and Genetics from the University of Strasbourg. During her master thesis she focused on understanding the role of BCL7 proteins in SWI/SNF assembly and function. She joined our group in March 2023 to understand the dynamics of heterochromatin, using C. elegans developmental oscillations as a model. Besides doing science, she bikes, hikes, and takes care of her plants.\n\n\n\n\n\n\n\n\n\n\nFenna Poppelaars -Research associate\nFenna obtained her BSc in Pharmaceutical Sciences from Utrecht University and a MSc in Biomolecular Sciences from VU Amsterdam. During her masters internships she acquired significant experience with microscopy techniques, employing smFISH and MS2-tagging to evaluate transcription in situ, and profiling of cell competition in organoids. She joined the Methot group in July 2025 to develop new microscopy tools to study transcription robustness and dynamics in C. elegans larvae. Outside the lab, she knits, hikes, and does triathlons."
-  },
-  {
-    "objectID": "index.html#upcoming-position",
-    "href": "index.html#upcoming-position",
-    "title": "Stephen P. Methot",
-    "section": "Upcoming Position:",
-    "text": "Upcoming Position:\nGroup Leader Chromatin Dynamics and Developmental Robustness Institut de génétique et de biologie moléculaire et cellulaire (IGBMC)  Illkirch, France | Starting in March 2027"
   }
 ]
