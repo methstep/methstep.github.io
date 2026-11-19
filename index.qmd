@@ -2,7 +2,7 @@
 title: "Stephen P. Methot"
 image: images/ProfileMethot.jpg
 about:
-  template: trestles
+  template: solana
   image-title: Stephen Methot
   links:
     - text: '<i class="fa-brands fa-bluesky"></i>'
